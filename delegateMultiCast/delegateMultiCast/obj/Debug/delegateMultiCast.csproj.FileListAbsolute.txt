@@ -1,0 +1,7 @@
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\bin\Debug\delegateMultiCast.exe.config
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\bin\Debug\delegateMultiCast.exe
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\bin\Debug\delegateMultiCast.pdb
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\obj\Debug\delegateMultiCast.csprojAssemblyReference.cache
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\obj\Debug\delegateMultiCast.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\obj\Debug\delegateMultiCast.exe
+C:\Users\kamal\source\repos\delegateMultiCast\delegateMultiCast\obj\Debug\delegateMultiCast.pdb
